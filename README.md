@@ -26,7 +26,7 @@ node index.js
 https://github.com/nagck/readmegen
 
 ## A sample README file for a project repository generated using this application
-https://github.com/nagck/readmegen/README2.md
+[README2.md](./README2.md)
 
 ## Credits
 

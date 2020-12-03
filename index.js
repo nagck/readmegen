@@ -27,7 +27,7 @@ const questions = [
     {
         type: "list",
         name: "license",
-        message: "Please choose one of the following licneses as applicable to your application",
+        message: "Please choose one of the following licenses as applicable to your application",
         choices: [
             "Apache",
             "GNU",
@@ -38,7 +38,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Please provide the contribution guidelines for other developers to contribute to your project."
+        message: "Please provide contribution guidelines for other developers to contribute to your project."
     },
     {
         type: "input",
@@ -58,7 +58,7 @@ const questions = [
     {
         type: "input",
         name: "email",
-        message: "Please enter you e-mail address."
+        message: "Please enter your e-mail address."
     },
     {
         type: "input",
