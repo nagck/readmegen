@@ -47,6 +47,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "repo",
+        message: "Please provide link to Git repo?"
+    },
+    {
+        type: "input",
         name: "questions",
         message: "Who do I do contact if I have an issue?"
     },
@@ -59,12 +64,8 @@ const questions = [
         type: "input",
         name: "email",
         message: "Please enter your e-mail address."
-    },
-    {
-        type: "input",
-        name: "repo",
-        message: "Please provide link to Git repo?"
     }
+    
 ];
 
 // function to write README file

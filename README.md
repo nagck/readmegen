@@ -23,7 +23,7 @@ node index.js
 ![](images/readmegen.png)
 
 ## Link to walkthrough video demonstrating the functionality of the application:
-https://github.com/nagck/readmegen
+https://drive.google.com/file/d/1QwOkgeKeR0LG1bDKu8QuZbkwwO6TjKNq/view?usp=sharing
 
 ## A sample README file for a project repository generated using this application
 [README2.md](./README2.md)
