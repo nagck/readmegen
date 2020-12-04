@@ -30,6 +30,7 @@ This application is covered under ${data.license} license agreements.
    ${data.repo}        
 ## Questions?
    ${data.questions}
+<br>
 My GitHub profile: [${data.username}](https://github.com/${data.username})
 <br>
 For any questions, please email me at: ${data.email}
